@@ -6,6 +6,7 @@ Credit card default risk is the chance that companies or individuals will not be
 
 # EDA
 By analyzing data I found that the customer whose credit score is in 500-700 and >=70% credit used are prone to default.
+
 ![image](https://user-images.githubusercontent.com/75474944/147322971-35a5fd17-bb65-45f9-af9e-2419c7726edc.png)
 ![image](https://user-images.githubusercontent.com/75474944/147322993-bb33282f-d292-49ce-b890-38942347c2a9.png)
 
